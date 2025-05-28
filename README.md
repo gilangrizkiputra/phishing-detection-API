@@ -4,12 +4,11 @@ A FastAPI-powered REST API to detect phishing websites based on URL features usi
 
 ## 🔧 Features
 
-- ✅ FastAPI backend
-- ✅ CatBoost ML model
-- ✅ Feature extraction from raw URL
-- ✅ Probability scores
-- ✅ JSON response format
-- ✅ Swagger UI docs at `/docs`
+- FastAPI backend
+- CatBoost ML model
+- Feature extraction from raw URL
+- Probability scores
+- JSON response format
 
 ---
 
