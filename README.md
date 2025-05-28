@@ -12,7 +12,7 @@ A FastAPI-powered REST API to detect phishing websites based on URL features usi
 
 ---
 
-## 📦 Libraries Used
+## Libraries Used
 
 | Library         | Fungsi                                                                 |
 |----------------|------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ A FastAPI-powered REST API to detect phishing websites based on URL features usi
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the Repository**
    ```terminal
