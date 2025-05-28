@@ -1,6 +1,6 @@
 # Phishing Detection API
 
-A FastAPI-powered REST API to detect phishing websites based on URL features using a pre-trained CatBoost model. The system extracts 30+ handcrafted features from the input URL and classifies it as phishing or safe.
+FastAPI-powered REST API to detect phishing websites based on URL features using a pre-trained CatBoost model. The system extracts 29 features from the input URL and classifies it as phishing or safe.
 
 ## 🔧 Features
 
