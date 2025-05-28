@@ -34,7 +34,6 @@ A FastAPI-powered REST API to detect phishing websites based on URL features usi
 1. **Clone the Repository**
    ```terminal
    git clone https://github.com/your-username/phishing-detection-api.git
-   cd phishing-detection-api
 2. Create & Activate Virtual Environment
    ```
    python -m venv myenv
